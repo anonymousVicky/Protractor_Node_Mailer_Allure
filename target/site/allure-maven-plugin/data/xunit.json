@@ -1,0 +1,38 @@
+{
+  "time" : {
+    "start" : 1452072443166,
+    "stop" : 1452072445088,
+    "duration" : 1922
+  },
+  "testSuites" : [ {
+    "uid" : "f40be1b766bb0726",
+    "name" : "jenkins homepage",
+    "title" : "jenkins homepage",
+    "time" : {
+      "start" : 1452072443166,
+      "stop" : 1452072445088,
+      "duration" : 1922
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "24f675fcf0a47272",
+      "name" : "should have the correct title",
+      "title" : "should have the correct title",
+      "time" : {
+        "start" : 1452072443166,
+        "stop" : 1452072445088,
+        "duration" : 1922
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1452072443165" stop="1452072445088">
+	<name>jenkins homepage</name>
+	<title>jenkins homepage</title>
+	<test-cases>
+		<test-case start="1452072443166" stop="1452072445088" status="passed">
+			<name>should have the correct title</name>
+			<title>should have the correct title</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="d0180772-0447-4575-b5ce-ede73315035e-attachment.png" type="image/png" size="77081"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

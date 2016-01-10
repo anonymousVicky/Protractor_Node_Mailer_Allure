@@ -1,0 +1,14 @@
+{
+  "testCases" : [ {
+    "uid" : "24f675fcf0a47272",
+    "name" : "should have the correct title",
+    "title" : "should have the correct title",
+    "time" : {
+      "start" : 1452072443166,
+      "stop" : 1452072445088,
+      "duration" : 1922
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}
