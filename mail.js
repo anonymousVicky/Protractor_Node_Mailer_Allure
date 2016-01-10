@@ -6,14 +6,14 @@
         secureConnection: true, // use SSL
         port: 465, // port for secure SMTP
         auth: {
-            user: "automationqauser@gmail.com",
-            pass: "Anywhere"
+            user: "xxx@gmail.com",
+            pass: "xxxx"
         }
     });
     console.log("SMTP Configured");
     var mailOptions = {
-        from: 'automationqauser@gmail.com', // sender address
-        to: 'vikas.gahlaut@gmail.com', // list of receivers
+        from: 'xxxxx@gmail.com', // sender address
+        to: 'xxxx.gahlaut@gmail.com', // list of receivers
         subject: 'Report for Test Result', // Subject line
         text: 'Contains the test result for the smoke test in html file.' +
         '\n Detailed Allure reports for latest build can be found at: http://192.168.1.4:1234/#/' + //replace this url by your jenkins node ip on which test is running
