@@ -13,7 +13,7 @@
     console.log("SMTP Configured");
     var mailOptions = {
         from: 'xxxxx@gmail.com', // sender address
-        to: 'xxxx.gahlaut@gmail.com', // list of receivers
+        to: 'xxxx@gmail.com', // list of receivers
         subject: 'Report for Test Result', // Subject line
         text: 'Contains the test result for the smoke test in html file.' +
         '\n Detailed Allure reports for latest build can be found at: http://192.168.1.4:1234/#/' + //replace this url by your jenkins node ip on which test is running
